@@ -1,0 +1,3 @@
+- build a simple web application that returns the temperature by your United States ZIP Code
+- this example will use the US-style postal code, called a ZIP Code
+- application will have two parts: a homepage that asks the user for their ZIP Code and a route that sends the temperature as JSON
